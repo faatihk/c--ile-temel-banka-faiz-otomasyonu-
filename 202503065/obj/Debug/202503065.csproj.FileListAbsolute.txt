@@ -1,0 +1,45 @@
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\bin\Debug\202503065.exe.config
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\bin\Debug\202503065.exe
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\bin\Debug\202503065.pdb
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\202503065.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\202503065.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\_202503065.frm_giris.resources
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\_202503065.Properties.Resources.resources
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\202503065.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\202503065.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\202503065.exe
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\202503065.pdb
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\_202503065.Frmbanka.resources
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\_202503065.frm_kayıtol.resources
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\_202503065.frm_sifreunuttum.resources
+C:\Users\fatih\Desktop\202503065 kredi p\202503065\obj\Debug\_202503065.frm_faiz.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\bin\Debug\202503065.exe.config
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\bin\Debug\202503065.exe
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\bin\Debug\202503065.pdb
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.frm_faiz.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.frm_giris.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.Frmbanka.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.frm_kayıtol.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.Properties.Resources.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.frm_sifreunuttum.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.exe
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.pdb
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\bin\Debug\202503065.exe.config
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\bin\Debug\202503065.exe
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\bin\Debug\202503065.pdb
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.frm_faiz.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.frm_giris.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.Frmbanka.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.frm_kayıtol.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.Properties.Resources.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\_202503065.frm_sifreunuttum.resources
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.exe
+C:\Users\fatih\Desktop\202503065_Fatih Sultan Koç - gönder\202503065_Fatih Sultan Koç\202503065_Fatih Sultan Koç\202503065\obj\Debug\202503065.pdb
